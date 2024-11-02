@@ -1,6 +1,6 @@
 # Face Recognition System
 
-A Python-based face recognition system using OpenCV and deep learning techniques. This project demonstrates the ability to detect and recognize faces in real-time.
+A Python-based face recognition system using OpenCV. This project demonstrates the ability to detect and recognize faces in real-time.
 
 ## Table of Contents
 
